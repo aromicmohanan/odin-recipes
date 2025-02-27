@@ -1,0 +1,30 @@
+body {
+    font-family: 'Courier New', Courier, monospace;
+    margin: 24px 48px;
+    background-color:cornsilk;
+}
+
+.link.home {
+    display: block;
+    text-align: center;
+    font-weight: bold;
+}
+
+.recipes {
+    list-style-type: none;
+    padding: 0;
+}
+
+.recipes li {
+    margin-top: 16px;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+img {
+    border-radius: 8px;
+    box-shadow: 5px 5px 5px gray;
+}
